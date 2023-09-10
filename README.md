@@ -5,7 +5,7 @@
 - TableView와 TableViewCell을 활용하여 프로필 리스트 기능을 구현하였습니다.
 - TableViewCell을 클릭하면 더 자세한 정보를 확인할 수 있습니다.
 - 더 자세한 정보를 보는 창에서 정보 및 프로필 이미지를 수정할 수 있습니다.
-- + 버튼을 눌러 새로운 프로필을 등록할 수 있습니다.
+- +버튼을 눌러 새로운 프로필을 등록할 수 있습니다.
 
 
 <br>
@@ -16,6 +16,7 @@
 - 프로필 목록 페이지는 목록을 보여주는 TableView, 새로운 목록을 추가하는 +버튼이 있습니다.
 ![첫 화면](https://github.com/kangsworkspace/DataStorage/assets/141600830/6acccf13-f50d-4a6e-84a6-a7c110eeef5f)
 ![추가 화면](https://github.com/kangsworkspace/DataStorage/assets/141600830/489ff97d-2126-4a05-ab1c-2ffbee22c8ec)
+
 - 자세한 정보를 확인하는 페이지는 목록의 정보를 확인, 수정이 가능합니다.
 ![자세한 정보 페이지](https://github.com/kangsworkspace/DataStorage/assets/141600830/f243d98c-c396-4293-b58d-07285cc77169)
 
